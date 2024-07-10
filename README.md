@@ -15,5 +15,5 @@
 
 ---
 
-![Aleksandr Semenov GitHub stats](https://raw.githubusercontent.com/0rdinatus/github_stats/master/generated/overview.svg)
-![Aleksandr Semenov GitHub stats](https://raw.githubusercontent.com/0rdinatus/github_stats/master/generated/languages.svg)
+![Aleksandr Semenov GitHub stats](https://raw.githubusercontent.com/0rdinatus/github-stats/master/generated/overview.svg)
+![Aleksandr Semenov GitHub stats](https://raw.githubusercontent.com/0rdinatus/github-stats/master/generated/languages.svg)

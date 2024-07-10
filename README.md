@@ -10,3 +10,8 @@
     <img align="left" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/kubernetes/kubernetes-plain-wordmark.svg" />
     <img align="left" alt="Prometheus" width="40px" src="https://pics.freeicons.io/uploads/icons/png/6813193821551942286-512.png" />
     <img align="left" alt="Grafana" width="40px" src="https://pics.freeicons.io/uploads/icons/png/8135670941548141941-512.png" />
+
+---
+
+![Aleksandr Semenov GitHub stats](https://raw.githubusercontent.com/0rdinatus/github_stats/master/generated/overview.svg)
+![Aleksandr Semenov GitHub stats](https://raw.githubusercontent.com/0rdinatus/github_stats/master/generated/languages.svg)

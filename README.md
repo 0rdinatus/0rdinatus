@@ -5,7 +5,6 @@
 [![Location](https://img.shields.io/badge/📍-Saint%20Petersburg-2ea44f?style=flat-square)](https://www.google.com/maps/place/Saint+Petersburg)
 [![Experience](https://img.shields.io/badge/experience-15%2B%20years-007ACC?style=flat-square)](https://github.com/0rdinatus)
 [![Work format](https://img.shields.io/badge/format-Remote%20%7C%20Hybrid-6f42c1?style=flat-square)](#)
-[![English](https://img.shields.io/badge/English-B2%20%28technical%29-555?style=flat-square)](#)
 
 I love working with cloud tech and automating things.
 

@@ -17,7 +17,7 @@ I love working with cloud tech and automating things.
 
 ### 🧭 What I Build
 
-Platform engineering · GitOps (Argo CD) · Developer portals & standardized deploy flows · Observability stacks · MCP/LLM integration for engineering workflows
+Platform engineering · GitOps (Argo CD) · Developer portals & standardized deploy flows · Observability stacks · MCP/LLM harneses and integration for engineering workflows
 
 ### 🛠 Tech Stack
 
